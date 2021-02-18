@@ -1,4 +1,3 @@
-# CS220 Homework 9
 
 Write different functions that answer the respective questions.
 
