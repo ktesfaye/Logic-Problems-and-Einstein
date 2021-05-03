@@ -1,9 +1,4 @@
 
-Write different functions that answer the respective questions.
-
-### Problem 1
-
-The first one asks different implementations of lists. There are three parts to this question.
 ## #1 dupList
 Write a relation dupList​ that takes two lists as arguments and is true if the second list is
 the first list with every element duplicated. So, the query dupList([a,b,c], D).​ should
